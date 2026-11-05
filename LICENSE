@@ -1,0 +1,102 @@
+Projeto Névoa: licença de uso gratuito
+Copyright (c) 2026 lc-leonardo. Todos os direitos reservados.
+
+Esta licença vale para o jogo Projeto Névoa: o programa, o código-fonte e o código
+compilado, os modelos, as imagens, os sons, as músicas, os textos, a wiki e tudo o que
+vem com eles (o "Jogo"). Ela não é uma licença de código aberto.
+
+1. O QUE VOCÊ PODE FAZER
+
+De graça, e sem precisar pedir, você pode:
+
+a) baixar, instalar e jogar o Jogo, sozinho ou com outras pessoas;
+b) abrir servidores do Jogo para jogar, sem cobrar por isso;
+c) publicar capturas de tela, vídeos e transmissões de partidas;
+d) indicar o Jogo às pessoas pelo link oficial de download.
+
+2. O QUE VOCÊ NÃO PODE FAZER
+
+Sem autorização por escrito do autor, você não pode:
+
+a) copiar ou reaproveitar o código, os modelos, as imagens, os sons, as músicas ou os
+   textos do Jogo, no todo ou em parte, em outro projeto;
+b) dizer que é autor do Jogo ou de qualquer parte dele, nem apagar ou mudar os avisos
+   de autoria e esta licença;
+c) redistribuir o Jogo, com ou sem mudanças, fora do link oficial de download;
+d) publicar versões modificadas ou derivadas do Jogo;
+e) vender o Jogo, alugá-lo ou cobrar por ele ou pelo acesso a ele;
+f) descompilar ou extrair o Jogo para fazer qualquer uma das coisas acima.
+
+3. COMPONENTES DE TERCEIROS
+
+O Jogo usa componentes de outros autores, como o Electron, o three.js, o Rapier e as
+fontes Barlow. Eles continuam sob as licenças deles, que acompanham o Jogo em
+THIRD-PARTY-NOTICES.txt, LICENSE.electron.txt e LICENSES.chromium.html. Nada nesta licença
+muda ou limita o que aquelas licenças permitem.
+
+4. SEM GARANTIA
+
+O Jogo é oferecido como está, sem garantia de nenhum tipo. Na medida em que a lei
+permitir, o autor não responde por danos causados pelo uso do Jogo.
+
+5. FIM DA PERMISSÃO
+
+Quem descumprir esta licença perde o direito de usar o Jogo. O autor pode mudar as
+condições das próximas versões. Nada aqui retira direitos que a lei garante e que não
+podem ser renunciados.
+
+Para pedir autorização: https://github.com/lc-leonardo
+
+--------------------------------------------------------------------------------
+
+Projeto Névoa: free-to-use licence
+Copyright (c) 2026 lc-leonardo. All rights reserved.
+
+This is a translation. If it differs from the Portuguese text above, the Portuguese text
+prevails.
+
+This licence covers the game Projeto Névoa: the program, its source and compiled code, its
+models, images, sounds, music, text, wiki and everything that comes with them (the "Game").
+It is not an open source licence.
+
+1. WHAT YOU CAN DO
+
+For free, and without asking, you can:
+
+a) download, install and play the Game, alone or with other people;
+b) run servers of the Game to play on, without charging for them;
+c) publish screenshots, videos and streams of play;
+d) point people to the Game through the official download link.
+
+2. WHAT YOU CAN'T DO
+
+Without written permission from the author, you can't:
+
+a) copy or reuse the Game's code, models, images, sounds, music or text, in whole or in
+   part, in another project;
+b) claim to be the author of the Game or of any part of it, or remove or change its notices
+   of authorship or this licence;
+c) redistribute the Game, changed or not, outside the official download link;
+d) publish modified or derivative versions of the Game;
+e) sell or rent the Game, or charge for it or for access to it;
+f) decompile or extract the Game in order to do any of the above.
+
+3. THIRD-PARTY COMPONENTS
+
+The Game uses components by other authors, such as Electron, three.js, Rapier and the Barlow
+fonts. They stay under their own licences, which come with the Game in
+THIRD-PARTY-NOTICES.txt, LICENSE.electron.txt and LICENSES.chromium.html. Nothing in this
+licence changes or limits what those licences allow.
+
+4. NO WARRANTY
+
+The Game is provided as is, with no warranty of any kind. As far as the law allows, the
+author is not liable for damage caused by using it.
+
+5. END OF PERMISSION
+
+Anyone who breaks this licence loses the right to use the Game. The author can change the
+terms of future versions. Nothing here takes away rights that the law guarantees and that
+can't be waived.
+
+To ask for permission: https://github.com/lc-leonardo
